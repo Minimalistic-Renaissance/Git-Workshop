@@ -1,6 +1,6 @@
 Git Workshop
 =============
-
+testing git
 ##Agenda :##
 Starting on a team project ? ... <br>
 Need to learn how to collaborate ? ...so it feels u are all in one place (even if all are in thier own comfy homes) ... <br>
