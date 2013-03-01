@@ -6,7 +6,7 @@ Need to learn how to collaborate as a team from the comfort of your homes?? <br>
 Need to protect your code so that a small untraceable bug dosent blow up your entire project ?<br>
 Want to contribute your skills to open-source projects?? <br>
 Want to "show off" your code and projects and get recognised?? <br>
-Well, use the awesome open source tools git & github used and trusted by millions worldwide including several open source projects like android, audacity, chromium, eclipse, firefox, reddit, tor, vlc and many more ... <br>
+Well, use the awesome open source tools git & github used and trusted by millions worldwide including several open source projects like android, chrome, eclipse, firefox, vlc and many more ... <br>
 
 ##Date Time and Venue: ##
 9 March 2013, 9am to 12 noon, NewBlock 007.
@@ -25,8 +25,6 @@ In Part-II of this workshop, which will be conducted later this month, we will s
 For final and pre-final year students, git and github will help you and your team complete your projects with ease. <br>
 
 A github account on your resume will add a lot of weightage as recruiters can see the projects you have worked on. <br>
-
-Find, clone & code in the projects you may be interested in.<br>
 
 ##Requirements : ##
 
