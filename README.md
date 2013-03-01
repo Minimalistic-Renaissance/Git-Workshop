@@ -24,9 +24,9 @@ In Part-II of this workshop, which will be conducted later this month, we will s
 
 For final and pre-final year students, git and github will help you and your team complete your projects with ease. <br>
 
-A github account on your resume will add a lot of weightage as recruiters can see the projects you have worked on <br>
+A github account on your resume will add a lot of weightage as recruiters can see the projects you have worked on. <br>
 
-Find and clone projects and code you may be interested in <br>
+Find, clone & code in the projects you may be interested in.<br>
 
 ##Requirements : ##
 
@@ -44,5 +44,5 @@ Certificates will be given to participants.<br>
 College Buses will ply as usual. <br>
 
 ##License :##
-<small>Copyright © 2013 Akash Devaraju akashdevaraju@gmail.com, Nikhil Mascarenhas nikhil.mascarenhas@gmail.com <br>
+<small>Copyright ï¿½ 2013 Akash Devaraju akashdevaraju@gmail.com, Nikhil Mascarenhas nikhil.mascarenhas@gmail.com <br>
 Available under GNU General Public License version 3</small>
