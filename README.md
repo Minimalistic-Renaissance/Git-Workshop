@@ -42,5 +42,9 @@ Certificates will be given to participants.<br>
 College Buses will ply as usual. <br>
 
 ##License :##
-<small>Copyright &copy; 2013 Akash Devaraju akashdevaraju@gmail.com, Nikhil Mascarenhas nikhil.mascarenhas@gmail.com <br>
+<small>Copyright &copy; 2013 <br>
+Akash Devaraju akashdevaraju@gmail.com<br>
+Shivratna Kumar kumarshivratna@gmail.com<br>
+Nikhil Mascarenhas nikhil.mascarenhas@gmail.com <br>
+
 Available under GNU General Public License version 3</small>
