@@ -7,16 +7,16 @@
 ##Basic Tracking Commands :
 	
 	git add .								//For making the git to watch your work...//
-	git commit -m "your Commit Message"	//To save your work with a message...//
+	git commit -m "your Commit Message"		//To save your work with a message...//
 
-##Branching Commands
+##Branching Commands :
 	
 	git branch 						//Shows all the branches in the repo...//
 	git checkout -b branch_name		//makes a new branch with the specified name at the given stage...//
 	git branch -d branch_name		//safe - dose'nt delete branch if uncommited changes exist
 	git branch -D branch_name		//unsafe - force delete a branch....//
 
-##Merging Commands 
+##Merging Commands :
 	
 	git checkout master				//swithes to master...//
 	git merge branch_name			//Merge branch features to master
@@ -29,8 +29,8 @@
 ##Sync with GitHub :
 
 	git init
-	git add .								//For making the git to watch your work...//
-	git commit -m "your Commit Message"	//To save your work with a message...//
+	git add .										//For making the git to watch your work...//
+	git commit -m "your Commit Message"				//To save your work with a message...//
     git remote add origin <my shh repo>				//For specifying your master.....//
 	git config branch.master.remote origin && git config branch.master.merge refs/heads/master
 	git pull origin master							//To pull all the work from github or from any dedicated server...//
